@@ -1,2 +1,2 @@
 # Ørbit
-Ørbit is a DSL written in swift
+Ørbit is a ToolKit 🧰 for web-app development
